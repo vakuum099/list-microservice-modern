@@ -24,6 +24,8 @@
 
 ## Description
 
+[List microservise] Microservice for management List of Contacts for feed Email send service.
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
